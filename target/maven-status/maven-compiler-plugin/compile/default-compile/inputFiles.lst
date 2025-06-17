@@ -1,0 +1,16 @@
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/repository/ClienteRepository.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/controller/ClienteController.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/ClienteService.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/AlmacenService.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/impl/SedeServiceImpl.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/controller/AlmacenController.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/controller/SedeController.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/model/Cliente.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/SedeService.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/repository/AlmacenRepository.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/impl/AlmacenServiceImpl.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/model/Almacen.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/model/Sede.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/repository/SedeRepository.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/service/impl/ClienteServiceImpl.java
+/Users/erickvelazquez/Downloads/almacenes-api-completo/src/main/java/com/almacenes/AlmacenesApiApplication.java

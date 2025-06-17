@@ -1,0 +1,4 @@
+com/almacenes/controller/ClienteController.class
+com/almacenes/model/Cliente.class
+com/almacenes/service/ClienteService.class
+com/almacenes/repository/ClienteRepository.class
